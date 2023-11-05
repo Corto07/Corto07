@@ -1,10 +1,12 @@
-<h2 align="center" width="16" height="16" aria-hidden="false"> Hola!!! 👋  Mi nombre es Claudio Carruz </h2>
+<h2 align="center">Hola!!! 👋  Mi nombre es Claudio Carruz</h2>
+<h4> Soy un programador Fullstack, orientado al diseño front-end y al material visual.</h4>
 
-<h3> Soy un programador Fullsatack, orientado al diseño front-end y al material visual.</h3>
+<h3> A que me dedico?</h3>
+<h4>  Soy administrador de proyectos de construcción, migrando con fuerte inclinación hacia el desarrollo web, siendo hoy mi principal prioridad.</h4>
 
 <h2 align="center">Lenguajes and Herramientas<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></h2>
 </br>
-
+Lenguajes de programacion
 <div align="center" dir="auto">
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Ramira10/Ramira10/a7c9f90315ddd998b2784eda7bdc1cd2f4c36d4e/iconos/Unofficial_JavaScript_logo_2.svg.png"><img width="50px" src="https://raw.githubusercontent.com/Ramira10/Ramira10/a7c9f90315ddd998b2784eda7bdc1cd2f4c36d4e/iconos/Unofficial_JavaScript_logo_2.svg.png" style="max-width: 100%;"></a>
