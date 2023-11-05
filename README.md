@@ -1,4 +1,4 @@
-<h2 align="center" width="16" height="16" aria-hidden="true"> Hola!!! 👋  Mi nombre es Claudio Carruz </h2>
+<h2 align="center" width="16" height="16" aria-hidden="false"> Hola!!! 👋  Mi nombre es Claudio Carruz </h2>
 
 <h3> Soy un programador Fullsatack, orientado al diseño front-end y al material visual.</h3>
 
