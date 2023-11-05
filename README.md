@@ -1,7 +1,8 @@
-### Hi there 👋
+Hola!!! 👋
 
-<!--
-**Corto07/Corto07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Claudio Carruz
+
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
