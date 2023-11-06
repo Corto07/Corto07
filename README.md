@@ -62,6 +62,7 @@ style="max-width: 100%;"></a>
 </div>
 <br>
 <div align="center">
-<h2>CodeCraft Templates - The final Project</h2>  
-<img src="https://res.cloudinary.com/dhmkge0ia/image/upload/v1699218533/Logo_codeCrafted_Derecho_mfii8f.jpg" alt="Watch the video" style="max-width: 100%;">
+<h2>CodeCraft Templates - The final Project</h2>
+<source src="https://www.youtube.com/watch?v=QOPGxEEHxeA" type="video/mp4"/>
+
 </div>
