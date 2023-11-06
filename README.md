@@ -59,3 +59,7 @@ style="max-width: 100%;"></a>
 <h4> Para obtener más información, no dudes en contactarme por correo electrónico:</h4>
 <h5>📧 Contacto: claudiocarruz@gmail.com</h5>
 </div>
+
+
+<h2 align="center">CodeCraft Templates - The final Project</h2>  
+[![Watch the video](https://res.cloudinary.com/dhmkge0ia/image/upload/v1699218533/Logo_codeCrafted_Derecho_mfii8f.jpg)](https://youtu.be/QOPGxEEHxeA)
