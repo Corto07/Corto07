@@ -56,16 +56,12 @@ style="max-width: 100%;"></a>
 </div>
 <br>
 <div>
-  <h4 margin: 10px>Para obtener más información, no dudes en contactarme:</h4>
+  <h4>Para obtener más información, no dudes en contactarme:</h4>
   <h5>📧 email: claudiocarruz@gmail.com</h5>
   <h5>🌐 Linkedin: <a href="https://www.linkedin.com/in/claudio-carruz-24961256">https://www.linkedin.com/in/claudio-carruz-24961256</a></h5>
 </div>
 <br>
-<h2 align="center">CodeCraft Templates - The final Project</h2>  
-<a href="https://youtu.be/QOPGxEEHxeA">
-  <img src="https://res.cloudinary.com/dhmkge0ia/image/upload/v1699218533/Logo_codeCrafted_Derecho_mfii8f.jpg" alt="Watch the video" style="max-width: 100%;">
-</a>
-
-<h2 align="center">CodeCraft Templates - The final Project</h2>  
-[![Watch the video](https://res.cloudinary.com/dhmkge0ia/image/upload/v1699218533/Logo_codeCrafted_Derecho_mfii8f.jpg)](https://youtu.be/QOPGxEEHxeA)
-
+<div align="center">
+<h2>CodeCraft Templates - The final Project</h2>  
+<img src="https://res.cloudinary.com/dhmkge0ia/image/upload/v1699218533/Logo_codeCrafted_Derecho_mfii8f.jpg" alt="Watch the video" style="max-width: 100%;">
+</div>
