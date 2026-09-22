@@ -1,11 +1,11 @@
 <h2 align="center"> 👋 Hola!!! Mi nombre es Claudio Carruz</h2>
-<h4> Soy un programador Fullstack, orientado al diseño front-end y al material visual.</h4>
+<h4> Soy Fullstack developer, orientado al diseño front-end y al programacion Web3.</h4>
 
 <h3> 🦺 A que me dedico?</h3>
-<h4>  Soy administrador de proyectos de construcción, migrando con fuerte inclinación hacia el desarrollo web, siendo hoy mi principal prioridad.</h4>
+<h4>  Soy asesor tecnico comercial, migrando con fuerte inclinación hacia el desarrollo web, siendo hoy mi principal prioridad.</h4>
 
 <h3>⚛ A donde me dirijo?</h3>
-<h4>Hoy como desarrollador full stack, y en búsqueda activa, pretendo incorporarme al mundo IT y poder afianzarme en un equipo de desarrollo donde pueda seguir aprendiendo, y creciendo como programador</h4>
+<h4>Hoy como desarrollador fullstack, y pronto desarrollador Web3, estoy en búsqueda activa y pretendo incorporarme al mundo IT donde poder afianzarme en un equipo de desarrollo para seguir progresando, y creciendo como programador</h4>
 
 <h3>Lenguajes de programación & Herramientas de diseño</h3>
 <div dir="auto">
